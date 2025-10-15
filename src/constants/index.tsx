@@ -13,6 +13,13 @@ export type logoListType = {
   imgPath: string;
 }
 
+export type TechIconData = {
+  name: string;
+  modelPath: string;
+  scale?: number; 
+  rotation?: number[];
+};
+
 
 
 const navLinks: navLinksType[] = [
@@ -129,7 +136,7 @@ const navLinks: navLinksType[] = [
     },
   ];
   
-  const techStackIcons = [
+  const techStackIcons: TechIconData[] = [
     {
       name: "React Developer",
       modelPath: "/models/react_logo-transformed.glb",

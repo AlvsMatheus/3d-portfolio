@@ -7,8 +7,8 @@ import * as THREE from "three"
 type TechIconProps = {
   model: {
     modelPath: string
-    scale?: [number, number, number]
-    rotation?: [number, number, number]
+    scale?: number 
+    rotation?: number[]
     name?: string
   }
 }
@@ -42,7 +42,7 @@ const TechIcon = ({ model }: TechIconProps) => {
         rotationIntensity={0.5}
         floatIntensity={0.9}
       >
-        <group scale={model.scale} rotation={model.rotation}>
+        <group scale={model.scale} rotation={(model.rotation || [0, 0, 0]) as [number, number, number]}>
           <primitive object={scene.scene} />
         </group>
       </Float>
