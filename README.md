@@ -6,13 +6,22 @@
  </p>
 
 <p> 
-Throughout the development process, I explored several cutting-edge technologies, including:
-
-Three.js and GSAP to create a dynamic visual experience and sophisticated animations.
-
-Integration with various APIs, specifically EmailJS, for contact functionality.
-
-The result is a portfolio that demonstrates not only my skills in React but also my ability to tackle and overcome complex technical challenges.
+<ul>
+  <li>
+    Throughout the development process, I explored several cutting-edge technologies, including:
+  </li>
+    <li>
+    Three.js and GSAP to create a dynamic visual experience and sophisticated animations.
+  </li>
+    
+  <li>
+    Integration with various APIs, specifically EmailJS, for contact functionality. 
+  </li>
+    
+  <li>
+    The result is a portfolio that demonstrates not only my skills in React but also my ability to tackle and overcome complex technical challenges.
+  </li>
+</ul>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=00E9F7&width=435&lines=Technologies)](https://git.io/typing-svg)
