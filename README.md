@@ -43,8 +43,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=00E9F7&width=435&lines=Author)](https://git.io/typing-svg)
 
-<img src='/public/images/javascript_mastery.jpg'>
-
-<img src='/public/images/link.png'> <a target="_blank" href="https://www.youtube.com/@javascriptmastery">https://www.youtube.com/@javascriptmastery</a>
+<span>🔗</span> <img src='/public/images/link.png'> <a target="_blank" href="https://www.youtube.com/@javascriptmastery">https://www.youtube.com/@javascriptmastery</a>
 
 
