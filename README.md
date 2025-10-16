@@ -37,11 +37,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=00E9F7&width=435&lines=Tools)](https://git.io/typing-svg)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=00E9F7&width=435&lines=Author)](https://git.io/typing-svg)
