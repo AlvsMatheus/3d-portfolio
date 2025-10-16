@@ -1,4 +1,4 @@
-<img src='/public/images/portfolio_3d_readme.png'>
+<img src='/public/images/portfolio_3d_thumb.jpg'>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=00E9F7&width=435&lines=About+the+project)](https://git.io/typing-svg)
 
@@ -42,3 +42,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Hegarty&pause=1000&color=00E9F7&width=435&lines=Author)](https://git.io/typing-svg)
+
+<img src='/public/images/javascript_mastery.jpg'>
+
+<img src='/public/images/link.png'> <a target="_blank" href="https://www.youtube.com/@javascriptmastery">https://www.youtube.com/@javascriptmastery</a>
+
+
